@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Scroll Playground
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It contains a simple scrollable list of items that implements an infinite scroll.
 
 ## Available Scripts
 
