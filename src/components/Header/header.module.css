@@ -1,0 +1,26 @@
+.scoreBoard {
+  position: sticky;
+  display: grid;
+  grid-template-columns: 1fr 100px 1fr;
+  height: 5rem;
+  top: 0;
+  background-color: white;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.score {
+  display: flex;
+  align-items: center;
+  font-family: monospace;
+  font-size: 2rem;
+  justify-content: center;
+}
+
+.left {
+  justify-content: flex-start;
+}
+
+.right {
+  justify-content: flex-end;
+}

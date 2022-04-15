@@ -1,0 +1,8 @@
+.page {
+  border: 1px solid green;
+  padding: 1rem;
+}
+
+.page + .page {
+  margin-top: 1rem;
+}
